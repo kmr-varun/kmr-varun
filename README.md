@@ -62,8 +62,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/kmr-varun/kmr-varun/output/snake.svg" alt="Snake animation" />
 
 ###
