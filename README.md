@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Varun Kumar Bilwal and I'm a Full-Stack Web Developer, from Indore, MP. <br>Second Year at IET DAVV, Indore.</h2>
+<h2 align="left">Hi 👋! My name is Varun Kumar Bilwal and I'm a Full-Stack Web Developer, from Indore, MP.</h2>
 
 ###
 
